@@ -2,7 +2,7 @@ module github.com/bep/execrpc-test
 
 go 1.20
 
-require github.com/bep/execrpc v0.8.1
+require github.com/bep/execrpc v0.9.0
 
 require (
 	github.com/bep/helpers v0.4.0 // indirect

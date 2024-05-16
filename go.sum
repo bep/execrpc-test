@@ -1,5 +1,7 @@
 github.com/bep/execrpc v0.8.1 h1:ooXcwm+xU4Dq1rq5CDu6gnDbaw/NtVGZw+gw5Zasd2g=
 github.com/bep/execrpc v0.8.1/go.mod h1:lGHGK8NX0KvfhlRNH/SebW1quHGwXFeE3Ba+2KLtmrM=
+github.com/bep/execrpc v0.9.0 h1:SIQnFxUIpJEbfR3FTp94OinpqBrZDQDVWbJ82pgJ77k=
+github.com/bep/execrpc v0.9.0/go.mod h1:lGHGK8NX0KvfhlRNH/SebW1quHGwXFeE3Ba+2KLtmrM=
 github.com/bep/helpers v0.4.0 h1:ab9veaAiWY4ST48Oxp5usaqivDmYdB744fz+tcZ3Ifs=
 github.com/bep/helpers v0.4.0/go.mod h1:/QpHdmcPagDw7+RjkLFCvnlUc8lQ5kg4KDrEkb2Yyco=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
